@@ -194,7 +194,7 @@ You'll learn more about the various access modifiers in your Java readings soon.
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
-- [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have modified `FizzBuzz.java` (and this README too!).
+- [X] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have modified `FizzBuzz.java` (and this README too!).
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
 a sequence of three git commands:
@@ -288,7 +288,7 @@ through the readings and coding homework over the next few of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
